@@ -1,0 +1,13 @@
+../Core/Src/main.c:93:6:microDelay	24	static
+../Core/Src/main.c:99:6:signalTrig	8	static
+../Core/Src/main.c:106:8:getDist	32	static
+../Core/Src/main.c:138:5:main	80	static
+../Core/Src/main.c:262:6:SystemClock_Config	88	static
+../Core/Src/main.c:309:13:MX_TIM3_Init	32	static
+../Core/Src/main.c:354:13:MX_TIM5_Init	32	static
+../Core/Src/main.c:399:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:432:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:465:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:516:6:esp_event	120	static
+../Core/Src/main.c:571:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:591:6:Error_Handler	4	static,ignoring_inline_asm
